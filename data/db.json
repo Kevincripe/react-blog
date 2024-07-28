@@ -23,6 +23,12 @@
       "title": "Test 2",
       "body": "test body",
       "author": "mario"
+    },
+    {
+      "id": "b0e7",
+      "title": "test3",
+      "body": "test body 3",
+      "author": "mario"
     }
   ]
 }
